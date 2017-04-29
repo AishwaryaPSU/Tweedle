@@ -1,0 +1,4 @@
+This is backend Play Service for Tweedle.
+TWEEDLE:
+Stream tweets in realtime based on plain text to kafka. 
+Stream the tweets from kafka to realtime sentiment analysis engine using Apache Storm Framework.
